@@ -6,7 +6,6 @@ The website to compare anything
 1. 깃 기본 설치
 2. 깃 기본적인 사용방법
 
-을 익혀야 함!
 
 # 본인이 맥 유저라면,
 
@@ -16,5 +15,5 @@ Go this site => https://zeddios.tistory.com/4
 
 Go this site => https://coding-factory.tistory.com/245
 
-# 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 익히자!
+# 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 알자!
 
