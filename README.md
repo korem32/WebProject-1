@@ -1,7 +1,8 @@
+--------------------------------------
 ## WebProject-1
 The website to compare anything 
 
-
+--------------------------------------
 
 ## 시작하기전에, [중요]
 
@@ -11,7 +12,7 @@ The website to compare anything
 
 3. 모르는 것 있으면 바로 묻기!
 
-
+--------------------------------------
 
 ## 어떤 웹사이트를 만들 것인가?
 
@@ -47,32 +48,38 @@ The website to compare anything
      
   - 더 나아가서, 다양한 방법으로 구현 가능할 것으로 예상할 수 있을 것 이다.
 
-
+--------------------------------------
 
 ## 일단 가장 먼저, 웹 사이트를 만들기전에
 
 1. 깃 기본 설치
 2. 깃 기본적인 사용방법
 
+--------------------------------------
+
 
 ## Step 1: 깃 설치
 
 1. 본인이 맥 유저라면,
 
-  Go this site => https://zeddios.tistory.com/4
+  -Go this site => (https://zeddios.tistory.com/4)
 
 2. 본인이 윈도우를 쓴다면,
 
-  Go this site => https://coding-factory.tistory.com/245
+  -Go this site => (https://coding-factory.tistory.com/245)
 
 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 알아야 함!
+
+--------------------------------------
 
 
 ## Step 2: 기본적인 웹 구조나 시스템에 대해서 공부하기
 
 1. 형조가 공유해준 생활코딩이라는 좋은 사이트가 있음 
 
-Go this site => https://opentutorials.org/course/62/233
+-Go this site => (https://opentutorials.org/course/62/233)
+
+--------------------------------------
 
 
 ## 추가할 것이나 궁금한 것들은 이해 안가는 것들을 바로 이 글에 추가하거나 카카오톡으로 질문.
