@@ -16,5 +16,5 @@ Go this site => https://zeddios.tistory.com/4
 
 Go this site => https://coding-factory.tistory.com/245
 
-# 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 익혀줘 ㅋㅋ
+# 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 익혀줘 :)
 
