@@ -1,6 +1,8 @@
 # WebProject-1
 The website to compare anything 
 
+
+
 # 시작하기전에, [중요]
 
 1. 모든 자료는 자유롭게 수정(추가 및 삭제) 가능함~
@@ -8,6 +10,7 @@ The website to compare anything
 2. 궁금한 것들은 카톡방이나 이쪽에 올려두고 본 사람은 찾아서 답변~
 
 3. 모르는 것 있으면 바로 묻기!
+
 
 
 # 어떤 웹사이트를 만들 것인가?
@@ -42,7 +45,7 @@ The website to compare anything
      ==> 타 사이트와 다른 점은 모두가 같은 글을 보는 것이 아니라, 본인이 관심있어하는 글들을 위주로 보여준다.
      [당연 조회수 높은 글들은 관련 없어도 당연히 먼저 보여줌]
      
-  3)더 나아가서, 다양한 방법으로 구현 가능할 것으로 예상할 수 있을 것 이다.
+  3) 더 나아가서, 다양한 방법으로 구현 가능할 것으로 예상할 수 있을 것 이다.
 
 
 
@@ -50,6 +53,7 @@ The website to compare anything
 
 1. 깃 기본 설치
 2. 깃 기본적인 사용방법
+
 
 # Step 1: 깃 설치
 
@@ -63,11 +67,13 @@ Go this site => https://coding-factory.tistory.com/245
 
 이 외에도 스스로 학습하여 기본적인 Git & Github 사용방법을 알아야 함!
 
+
 # Step 2: 기본적인 웹 구조나 시스템에 대해서 공부하기
 
 1. 형조가 공유해준 생활코딩이라는 좋은 사이트가 있음 
 
 Go this site => https://opentutorials.org/course/62/233
+
 
 # 추가할 것이나 궁금한 것들은 이해 안가는 것들을 바로 이 글에 추가하거나 카카오톡으로 질문.
 
